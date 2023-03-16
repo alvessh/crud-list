@@ -13,3 +13,5 @@ Segue a lista de projetos dos que contribuiram
 * [JaquelineBravin - PHP](https://github.com/JaquelineBravin/CRUD-ITAMAR)
 * [asarahre - NodeJS](https://github.com/asarahre/node-cad-user-api)
 * [mardenrafael - Rust](https://github.com/mardenrafael/rust-api)
+* [gabrielgt5 - NodeJS](https://github.com/gabrielgt5/CRUD_NODEJS)
+* [eonarga - PHP](https://github.com/eonarga/sistema-CRUDphp)
