@@ -15,3 +15,5 @@ Segue a lista de projetos dos que contribuiram
 * [mardenrafael - Rust](https://github.com/mardenrafael/rust-api)
 * [gabrielgt5 - NodeJS](https://github.com/gabrielgt5/CRUD_NODEJS)
 * [eonarga - PHP](https://github.com/eonarga/sistema-CRUDphp)
+* [lucascampolimm - C#](https://github.com/lucascampolimm/crud-csharp)
+* [lucascampolimm - C](https://github.com/lucascampolimm/crud-c)
