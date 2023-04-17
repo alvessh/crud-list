@@ -4,7 +4,7 @@
 
 <br>
 
-> Atividade acadêmica com os alunos do curso de Sistemas de Informação, na qual propus a formação de duplas para o desenvolvimento de dois CRUDs. Cada dupla teve a liberdade de escolher o banco de dados e a interface para manipulação.
+> Atividade acadêmica com os alunos do curso de Sistemas de Informação, na qual solicitei a formação de duplas para o desenvolvimento de dois CRUDs. Cada dupla teve a liberdade de escolher o banco de dados e a interface para manipulação.
 >
 > Para que a atividade fosse ainda mais desafiadora, defini que cada dupla deveria desenvolver dois CRUDs utilizando duas linguagens de programação diferentes. Essa escolha se justifica pelo fato de que os profissionais da área de tecnologia precisam estar aptos a trabalhar com diferentes linguagens e frameworks, adaptando-se às necessidades e particularidades de cada projeto.
 
@@ -49,7 +49,7 @@
 <a href="https://github.com/asarahre"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/92340884?v=4"/>
 </a>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
-<img style="border-radius: 40px" width="80em" height="30em" src="https://cdn.awsli.com.br/998/998959/produto/90422821/b7a7d17130.jpg"/></a>
+<img style="border-radius: 40px" width="81em" height="30em" src="https://cdn.awsli.com.br/998/998959/produto/90422821/b7a7d17130.jpg"/></a>
 <a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
 
