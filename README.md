@@ -35,7 +35,7 @@
 <a href="https://github.com/LucashenriqueDF?tab=repositories"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/111028538?v=4"/>
 </a>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
-<img style="border-radius: 40px" width="80em" height="30em" src="https://museulinguaportuguesa.org.br/wp-content/uploads/2018/02/cor-rosa.jpg"/></a>
+<img style="border-radius: 40px" width="81em" height="30em" src="https://museulinguaportuguesa.org.br/wp-content/uploads/2018/02/cor-rosa.jpg"/></a>
 <a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
 
@@ -49,7 +49,7 @@
 <a href="https://github.com/asarahre"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/92340884?v=4"/>
 </a>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
-<img style="border-radius: 40px" width="81em" height="30em" src="https://cdn.awsli.com.br/998/998959/produto/90422821/b7a7d17130.jpg"/></a>
+<img style="border-radius: 40px" width="80em" height="30em" src="https://cdn.awsli.com.br/998/998959/produto/90422821/b7a7d17130.jpg"/></a>
 <a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
 
@@ -64,7 +64,7 @@
 <a href="https://github.com/gabrielgt5"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/69332675?v=4"/>
 </a>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
-<img style="border-radius: 40px" width="80em" height="30em" src="https://www.gonzalezmadeireira.com.br/doutor/uploads/2/produtos/2018/10/cover-amarelo-claro-04102018.jpg"/></a>
+<img style="border-radius: 40px" width="81em" height="30em" src="https://www.gonzalezmadeireira.com.br/doutor/uploads/2/produtos/2018/10/cover-amarelo-claro-04102018.jpg"/></a>
 <a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
 
