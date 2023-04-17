@@ -8,11 +8,11 @@
 >
 > Para que a atividade fosse ainda mais desafiadora, defini que cada dupla deveria desenvolver dois CRUDs utilizando duas linguagens de programação diferentes. Essa escolha se justifica pelo fato de que os profissionais da área de tecnologia precisam estar aptos a trabalhar com diferentes linguagens e frameworks, adaptando-se às necessidades e particularidades de cada projeto.
 
----
+##
 
-## Repositórios
+<h4>Segue o repositório dos que contribuiram:</h4>
 
-## <h4>Segue a lista de projetos dos que contribuiram: </h4>
+##
 
 <br>
 
