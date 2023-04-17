@@ -10,7 +10,7 @@
 
 ##
 
-<h5> Segue o repositório dos que contribuiram: </h5>
+<h5> Segue o repositório dos que contribuíram: </h5>
 
 ##
 
