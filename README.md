@@ -10,7 +10,7 @@
 
 ##
 
-#### Segue o repositório dos que contribuiram:
+##### Segue o repositório dos que contribuiram:
 
 ##
 
