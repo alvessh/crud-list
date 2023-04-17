@@ -10,7 +10,7 @@
 
 ##
 
-#### Segue o repositório dos que contribuiram:
+##### Segue o repositório dos que contribuiram:
 
 ##
 
@@ -20,9 +20,9 @@
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a> 
 <a href="https://github.com/alvessh"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/117163985?v=4"/>
 </a>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/raphaelkauan/Pokemon" target="_blank">
-<img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://github.com/raphaelkauan"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/111379005?v=4"/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/mardenrafael/rust-api" target="_blank">
+<img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
+<a href="https://github.com/mardenrafael"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/69557606?v=4"/>
 </a>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/magnojunior07/golang-crud" target="_blank">
@@ -34,6 +34,10 @@
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://github.com/LucashenriqueDF?tab=repositories"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/111028538?v=4"/>
 </a>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
+<img style="border-radius: 40px" width="82em" height="30em" src="https://museulinguaportuguesa.org.br/wp-content/uploads/2018/02/cor-rosa.jpg"/></a>
+<a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
+</a>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/JaquelineBravin/CRUD-ITAMAR" target="_blank">
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
@@ -44,15 +48,24 @@
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://github.com/asarahre"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/92340884?v=4"/>
 </a>
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/mardenrafael/rust-api" target="_blank">
-<img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://github.com/mardenrafael"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/69557606?v=4"/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
+<img style="border-radius: 40px" width="82em" height="30em" src="https://cdn.awsli.com.br/998/998959/produto/90422821/b7a7d17130.jpg"/></a>
+<a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/raphaelkauan/Pokemon" target="_blank">
+<img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://github.com/raphaelkauan"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/111379005?v=4"/>
+</a>
+
 
 <a href="https://github.com/gabrielgt5/CRUD_NODEJS" target="_blank">
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://github.com/gabrielgt5"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/69332675?v=4"/>
+</a>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="#" target="_blank">
+<img style="border-radius: 40px" width="82em" height="30em" src="https://www.gonzalezmadeireira.com.br/doutor/uploads/2/produtos/2018/10/cover-amarelo-claro-04102018.jpg"/></a>
+<a href="#"><img style="border-radius: 100%" height="30em" src="https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"/>
 </a>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/eonarga/sistema-CRUDphp" target="_blank">
@@ -71,6 +84,8 @@
 <img style="border-radius: 40px" height="30em" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://github.com/DanieLDevD"><img style="border-radius: 100%" height="30em" src="https://avatars.githubusercontent.com/u/102476758?v=4"/>
 </a>
+
+
 
 ---
 
