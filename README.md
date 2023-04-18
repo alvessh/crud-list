@@ -65,6 +65,6 @@
 
 ## 📝 Licença
 
-Todos os projetos acimas estão sob liceça. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+Todos os projetos acimas estão sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 ##### 3° Período SI ❤️
